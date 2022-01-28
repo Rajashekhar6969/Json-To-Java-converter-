@@ -34,7 +34,6 @@ public class HelloController {
             
             Object obj = new JSONParser().parse(new FileReader("src/main/resources/tiger_sample_course/enUS/json/titles.json"));
             
-	        // typecasting obj to JSONObject
 	        JSONObject jo = (JSONObject) obj;
 	        //Titles titles1=(Titles) jo.get(tigerCourse.getId());
 	        System.out.println(jo.get(tigerCourse.getId()));
