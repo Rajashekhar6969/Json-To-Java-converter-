@@ -30,7 +30,6 @@ public class HelloController {
             //ObjectMapper om1 = new ObjectMapper();
             //titles = om1.readValue(new File("src/main/resources/tiger_sample_course/enUS/json/titles.json"), TitleRoot.class);
             //System.out.println(titles.toString());
-            //fetch titles
             
             Object obj = new JSONParser().parse(new FileReader("src/main/resources/tiger_sample_course/enUS/json/titles.json"));
             
