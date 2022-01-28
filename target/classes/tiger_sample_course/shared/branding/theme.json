@@ -1,0 +1,20 @@
+{
+  "palette": [
+    ["#162e5c", "#162e5c", "#162e5c", "#162e5c"],
+    ["#000000", "#ffffff", "#000000", "#ffffff"],
+    ["#ffffff", "#000000", "#ffffff", "#000000"],
+    ["#098317", "#018811", "#098317", "#018811"],
+    ["#D90A11", "#ff0f17", "#D90A11", "#ff0f17"],
+    ["#cccccc", "#a4a4a4", "#cccccc", "#a4a4a4"],
+    ["#a4a4a4", "#666666", "#a4a4a4", "#666666"],
+    ["#a4a4a4", "#666666", "#a4a4a4", "#666666"]
+  ],
+
+  "panelOpacityOff": "1",
+  "panelOpacityHigh": "0.1",
+  "panelOpacityMedium": "0.6",
+  "panelOpacityLow": "0.95",
+
+  "interfaceOffsetTop": 75,
+  "interfaceOffsetBottom": 80
+}

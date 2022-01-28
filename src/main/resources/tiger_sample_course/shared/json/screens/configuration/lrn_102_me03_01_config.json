@@ -1,0 +1,37 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "text_position": {
+    "top": false,
+    "bottom": false,
+    "left": true,
+    "right": false
+  },
+  "autoplay": false,
+  "videoSeekingDisabled": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "video_subtitles": {
+    "global": true,
+    "on": false,
+    "off": false
+  }
+}

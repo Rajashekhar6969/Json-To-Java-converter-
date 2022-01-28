@@ -1,0 +1,146 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>What Is Terrorist Financing?</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Like any criminal gang, a terrorist organisation needs money. But unlike most gangs, not all this money comes from criminal activities.</p><p><br></p><p>Terrorist organisations have numerous sources of income, and they use a range of methods to move funds, often internationally, while avoiding detection.</p><p><br></p><p>In money laundering, the aim is to make dirty money appear to be clean – but terrorist financing often starts with money from legitimate sources. It’s the end results that are criminal.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>How Do Terrorists Raise Funds?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Legitimate sources include:</p><ul><li>Private donations</li><li>Legitimate commercial enterprises</li><li>Legitimate non-profit or religious organisations</li></ul><p><br></p><p>Criminal sources include:</p><ul><li>Proceeds of criminal activity, such as narcotics, fraud, robbery, kidnapping and extortion.</li><li>Conflict resources, such as oil, diamonds or minerals.</li><li>Shell companies or charities.</li><li>Sponsorship by rogue states.</li></ul><p><br></p><p>More recently, groups have been raising income from appeals on social media, or even using crowdfunding sites.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Movement of Funds</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Terrorists often use similar techniques to money launderers to transfer funds. For example, the regulated banking system is used to move illegal opium profits from Afghanistan to safe financial havens abroad.</p><p><br></p><p>Terrorists also use less well-regulated systems, such as money remittance businesses.</p><p><br></p><p>And they use informal systems such as Hawalas – trust-based remittance agencies, popular across the Middle East and South Asia.</p><p><br></p><p>Finally, they still use the oldest method of transfer – physically transporting the cash.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>How Does Terrorist Financing Differ from Money Laundering?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>While traditional money laundering investigations aim to link funds to a criminal act that has already taken place, terrorist financing investigations try to stop terrorists getting access to funds for future activities.</p><p><br></p><p>Also, the traditional money laundering process is circular, with the “clean” money coming back to the criminals that started the process. The terrorist financing route is linear, with money moving from the donor or source to the terrorist that will use the funds.</p><p><br></p><p>Terrorist financing transactions also tend to be smaller than typical money laundering cases, and when the funds come from legitimate sources, they can be difficult to detect.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>It’s Up to You</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Financial intelligence is critically important in the fight against terrorism. Detecting and reporting red flags for terrorist financing is the most effective way to stop the flow of terrorist funds.<br><br>That’s why it’s important you stay vigilant for any signs of suspicious activity and that you report them to the appropriate channels.<br><br>If you’re not sure how to report your suspicions, you can <a href=\"#contacts\" onclick=\"interface.openInterfaceComponent(&quot;contacts&quot;)\">find our contacts here</a>.<br><br>Remember, financial records can be linked to terrorists. Following the flow of funds from the point of origin to the terrorist operatives can help investigators uncover terrorist cells and the networks that support them.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+      [
+	      {
+	        "accessibility": ""
+	      },
+        {
+          "accessibility": "Main image 1"
+        },
+	      {
+	        "accessibility": ""
+	      }
+      ],
+      [
+	      {
+	        "accessibility": ""
+	      },
+        {
+          "accessibility": "Main image 2"
+        },
+	      {
+	        "accessibility": ""
+	      }
+      ],
+      [
+	      {
+	        "accessibility": ""
+	      },
+        {
+          "accessibility": "Main image 3"
+        },
+	      {
+	        "accessibility": ""
+	      }
+      ],
+      [
+	      {
+	        "accessibility": ""
+	      },
+        {
+          "accessibility": "Main image 4"
+        },
+	      {
+	        "accessibility": ""
+	      }
+      ]
+    ]
+  }
+}

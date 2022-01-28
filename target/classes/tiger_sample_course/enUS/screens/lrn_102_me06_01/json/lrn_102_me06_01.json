@@ -1,0 +1,182 @@
+{
+  "multi": [
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>Tailor Your Training</p>",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>This training focuses on our expectations around your behavior in the workplace and how we expect you to treat your fellow employees. It will help you recognize situations that may involve harassment or discrimination and identify what to do when you experience or witness these situations in the workplace.</p><p><br></p><p>Answer the following and we'll customize the content for you.</p>",
+          "max_word": "60"
+        },
+        "transcript": {
+          "text": "<p></p>",
+          "max_word": "360"
+        }
+      }
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Do you supervise people?</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>Yes</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>1</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>No</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>2</p>",
+            "max_word": "3"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Select your primary work location and any other locations you regularly work from. If you supervise people, also select the locations of your direct reports. Once you make your selection, click Submit.</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>California</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>1</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Connecticut</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>2</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Delaware</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>3</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Illinois</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>11</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Maine</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>4</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>New York</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>5</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Another US State</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>6</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Canada</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>7</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>India</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>8</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>UK</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>9</p>",
+            "max_word": "3"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Another Country</p>",
+            "max_word": "30"
+          },
+          "item_body": {
+            "text": "<p>10</p>",
+            "max_word": "3"
+          }
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "media_accessibility": {
+    "items": []
+  }
+}

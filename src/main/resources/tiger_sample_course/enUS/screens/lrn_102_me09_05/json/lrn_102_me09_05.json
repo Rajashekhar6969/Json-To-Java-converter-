@@ -1,0 +1,105 @@
+{
+	"ost": {
+		"title_1": {
+      "text": "<p>Question Right One Third Image</p>",
+      "max_word": "50"
+    },
+		"subtitle_1": {
+			"text": "<p></p>",
+			"max_word": "10"
+		},
+    "body_1": {
+      "text": "<p>Sara asks if you know the impact of money laundering on economic development.</p>",
+      "max_word": "50"
+    },
+    "video_body_1": {
+      "text": "<p></p>",
+      "max_word": "50"
+    },
+    "video_body_2": {
+      "text": "",
+      "max_word": "50"
+    },
+    "q_stem": {
+      "text": "<p><strong>What are the three main impacts?</strong></p>",
+      "max_word": "50"
+    },
+    "label_correct": {
+      "text": "<p>Correct.</p>",
+      "max_word": "5"
+    },
+    "label_incorrect": {
+      "text": "<p>That’s not it.</p>",
+      "max_word": "5"
+    },
+    "correct": {
+      "text": "<p>That's correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "80"
+    },
+    "incorrect": {
+      "text": "<p>That's incorrect.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "partially": {
+      "text": "<p>That's partially correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "partially_retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+	},
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>The flow of laundered money into the real economy can disrupt competition and distort the real estate market.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Money laundering is used by terrorists to hide the source of their funding.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>The extra tax revenue from illegal funds helps offset the cost of crime.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>The proceeds of money laundering are used to fund further criminal activity, which slows economic growth.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": []
+  }
+}

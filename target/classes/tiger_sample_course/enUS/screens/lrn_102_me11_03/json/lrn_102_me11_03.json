@@ -1,0 +1,113 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Play Your Part</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Please confirm that you will remain vigilant to the threat of money laundering and always report any suspicions.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "<p>You have successfully completed the training.</p><p>Select Print to print a completion certificate.</p><p>Close your browser window to exit the course</p>",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "<p>We value your feedback, please rate the course.</p>",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "<p>CONGRATULATIONS!</p>",
+      "max_word": "10"
+    },
+    "label_2": {
+      "text": "<p>Course Rating Submitted</p>",
+      "max_word": "10"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>I understand which transactions are vulnerable to money laundering</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>I understand the risk control process</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>I understand the anti-money laundering (AML) internal reporting requirements in my organization.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>I understand how and when to seek support or escalate AML issues.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ]
+	  ]
+  }
+}

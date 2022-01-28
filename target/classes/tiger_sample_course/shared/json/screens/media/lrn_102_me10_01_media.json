@@ -1,0 +1,74 @@
+{
+  "audio": {
+  	"audio_main":{
+	  	"default": {
+	    	"src": ""
+	    }
+	  },
+    "audio_items": []
+  },
+  "video": {
+  	"video_main": {
+  		"default": {
+		    "main_video_high": "",
+		    "main_video_low": "",
+		    "vtt":{
+						"default": {
+							"vtt_file": ""
+						}
+					}
+		  }
+	  },
+    "video_items": []
+  },
+  "image": {
+  	"image_main": {
+	    "default": {
+	      "src": "tq_culture_bg.jpg",
+	      "mobile_src": "tq_culture_bg_mobile.jpg"
+	    }
+	  },
+    "items": [
+    	[
+        {
+        	"default":{
+	          "src": "tq_culture_question_bg.jpg",
+	          "mobile_src": "tq_culture_question_bg_mobile.jpg"
+	        }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+    	[
+        {
+        	"default":{
+	          "src": "tq_culture_summary_bg.jpg",
+	          "mobile_src": "tq_culture_summary_bg_mobile.jpg"
+	        }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

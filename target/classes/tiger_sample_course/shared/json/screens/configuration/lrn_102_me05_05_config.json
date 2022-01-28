@@ -1,0 +1,78 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "text_position": {
+    "top": false,
+    "bottom": true,
+    "left": false,
+    "right": false
+  },
+  "no_columns": {
+    "one_column": false,
+    "two_column": false,
+    "three_column": true
+  },
+  "layout": {
+    "small": true,
+    "medium": false,
+    "large": false
+  },
+  "dynamic_layout": {
+    "left": {
+      "elements": [
+        {
+          "identifier": "main",
+          "small": "col-12 col-sm-7 col-lg-6 col-xl-4 offset-sm-1",
+          "medium": "col-12 col-sm-8 col-lg-6 col-xl-5 offset-sm-1",
+          "large": "col-12 col-sm-9 col-lg-7 col-xl-6 offset-sm-1"
+        }
+      ]
+    },
+    "right": {
+      "elements": [
+        {
+          "identifier": "main",
+          "small": "col-12 col-sm-7 col-lg-6 col-xl-4 offset-sm-3 offset-md-4 offset-lg-5 offset-xl-7",
+          "medium": "col-12 col-sm-8 col-lg-6 col-xl-5 offset-sm-2 offset-md-3 offset-lg-5 offset-xl-6",
+          "large": "col-12 col-sm-9 col-lg-7 col-xl-6 offset-sm-1 offset-md-2 offset-lg-4 offset-xl-5"
+        }
+      ]
+    },
+    "top": {
+      "elements": [
+        {
+          "identifier": "main",
+          "small": "col-12",
+          "medium": "col-12",
+          "large": "col-12"
+        }
+      ]
+    },
+    "bottom": {
+      "elements": [
+        {
+          "identifier": "main",
+          "small": "col-12",
+          "medium": "col-12",
+          "large": "col-12"
+        }
+      ]
+    }
+  }
+}

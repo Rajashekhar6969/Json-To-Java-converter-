@@ -1,0 +1,44 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Text, Background Image</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>The success of our AML program depends on you!</p><p><br></p><p>We have implemented an AML program by developing internal policies, procedures, and controls. Aside from escalating red flags, you also need to record any issues appropriately.</p><p><br></p><p>Remember:</p><p><br></p><p><ul><li>Keep correct records.</li><li>Monitor and investigate transactions for suspicious activity and to ensure they are within legal thresholds.</li><li>Report transactions in line with our policy and the regulations. You can find out who to report to here.</li><li>Find out what our AML policy and internal controls expect from you.</li><li>Ask for help if you need it.</li></ul></p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "<p>The success of our AML program depends on you!</p><p><br></p><p>We have implemented an AML program by developing internal policies, procedures, and controls. Aside from escalating red flags, you also need to record any issues appropriately.</p><p><br></p><p>Remember:</p><p><br></p><ul><li>Keep correct records.</li><li>Monitor and investigate transactions for suspicious activity and to ensure they are within legal thresholds.</li><li>Report transactions in line with our policy and the regulations. You can find out who to report to here.</li><li>Find out what our AML policy and internal controls expect from you.</li><li>Ask for help if you need it.</li></ul>",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "<p>The success of our AML program depends on you!</p><p><br></p><p>We have implemented an AML program by developing internal policies, procedures, and controls. Aside from escalating red flags, you also need to record any issues appropriately.</p><p><br></p><p>Remember:</p><p><br></p><ul><li>Keep correct records.</li><li>Monitor and investigate transactions for suspicious activity and to ensure they are within legal thresholds.</li><li>Report transactions in line with our policy and the regulations. You can find out who to report to here.</li><li>Find out what our AML policy and internal controls expect from you.</li><li>Ask for help if you need it.</li></ul>",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [],
+  "media_accessibility": {
+    "items": []
+  }
+}

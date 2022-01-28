@@ -1,0 +1,194 @@
+{
+  "audio": {
+    "audio_main": {
+      "default": {
+        "src": ""
+      }
+    },
+    "audio_items": []
+  },
+  "video": {
+    "video_main": {
+      "default": {
+        "main_video_high": "",
+        "main_video_low": "",
+        "vtt":{
+					"default": {
+						"vtt_file": ""
+					}
+				}
+      }
+    },
+    "video_items": []
+  },
+  "image": {
+    "image_main": {
+      "default": {
+        "src": "t_parallax_bg.jpg",
+        "mobile_src": ""
+      }
+    },
+    "items": [
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_1.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_2.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_3.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_4.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_5.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_6.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_7.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "parallax_icon_8.png",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

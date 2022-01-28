@@ -1,0 +1,101 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Question Center</p>",
+      "max_word": "50"
+    },
+    "body_1": {
+      "text": "<p>Maria is reviewing a set of client accounts.</p>",
+      "max_word": "50"
+    },
+    "video_body_1": {
+      "text": "<p></p>",
+      "max_word": "50"
+    },
+    "video_body_2": {
+      "text": "",
+      "max_word": "50"
+    },
+    "q_stem": {
+      "text": "<p>Which three activities might indicate money laundering?</p>",
+      "max_word": "50"
+    },
+    "label_correct": {
+      "text": "<p>Correct.</p>",
+      "max_word": "5"
+    },
+    "label_incorrect": {
+      "text": "<p>That’s not it.</p>",
+      "max_word": "5"
+    },
+    "correct": {
+      "text": "<p>That's correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "80"
+    },
+    "incorrect": {
+      "text": "<p>That's incorrect.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "partially": {
+      "text": "<p>That's partially correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "partially_retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Spreading cash across multiple small transactions</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Payments to corrupt staff and officials</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Deceiving staff and officials</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Using cash in a single lump-sum transaction</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": []
+  }
+}

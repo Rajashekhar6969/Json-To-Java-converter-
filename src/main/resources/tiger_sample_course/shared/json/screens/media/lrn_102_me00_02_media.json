@@ -1,0 +1,154 @@
+{
+  "audio": {
+    "audio_main": {
+      "default": {
+        "src": ""
+      }
+    },
+    "audio_items": []
+  },
+  "video": {
+    "video_main": {
+      "default": {
+        "main_video_high": "",
+        "main_video_low": "",
+        "vtt":{
+					"default": {
+						"vtt_file": ""
+					}
+				}
+      }
+    },
+    "video_items": []
+  },
+  "image": {
+    "image_main": {
+      "default": {
+        "src": "t_ask_the_expert_bg.jpg",
+        "mobile_src": "t_ask_the_expert_bg_mobile.jpg"
+      }
+    },
+    "items": [
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

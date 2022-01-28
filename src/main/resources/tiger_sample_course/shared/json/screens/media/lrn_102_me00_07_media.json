@@ -1,0 +1,154 @@
+{
+  "audio": {
+    "audio_main": {
+      "default": {
+        "src": ""
+      }
+    },
+    "audio_items": []
+  },
+  "video": {
+    "video_main": {
+      "default": {
+        "main_video_high": "",
+        "main_video_low": "",
+        "vtt":{
+					"default": {
+						"vtt_file": ""
+					}
+				}
+      }
+    },
+    "video_items": []
+  },
+  "image": {
+    "image_main": {
+      "default": {
+        "src": "t_coverflow_bg.jpg",
+        "mobile_src": ""
+      }
+    },
+    "items": [
+      [
+        {
+          "default": {
+            "src": "cf_bg_1.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_1.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "cf_bg_2.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_2.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "cf_bg_3.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_3.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "cf_bg_4.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_4.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "cf_bg_5.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_5.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "cf_bg_6.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "cf_image_6.jpg",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

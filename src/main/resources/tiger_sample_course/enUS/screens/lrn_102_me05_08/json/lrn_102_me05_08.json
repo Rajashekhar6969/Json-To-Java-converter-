@@ -1,0 +1,56 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Speaking Up</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>It's your duty to speak up when you become aware of any violations of insider trading policy and laws. Remember, even innocent mistakes should be reported.</p><br><p>If you are unsure at to whether a potential decision or action could be a violation, or who to contact for advice, a list of contacts is available here.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "<p>You need to: <br><br><ul><li>Speak up and do so immediately.</li><li>Know who to speak to.</li><li>Recognize that even if an error is made in good faith, it must be reported.</li><li>Recognize that you are responsible for protecting yourself and our company.</li><li>Admit when you have done something wrong, even if it was in error.</li><li>Ask for help with questions about trading in company stock or stock of another company.</li></ul></p>",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "<p>Quisque volutpat metus vitae convallis tempor. Aenean tincidunt sollicitudin consequat. Proin tincidunt sollicitudin orci, eu elementum urna rutrum et. Donec elementum posuere tempor. Maecenas eu leo non neque varius fermentum.</p>",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [],
+  "media_accessibility": {
+    "items": [
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ]
+	  ]
+  }
+}

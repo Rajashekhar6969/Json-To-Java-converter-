@@ -1,0 +1,262 @@
+{
+  "media_accessibility": {
+    "items": [
+      [
+        {
+          "accessibility": "Main image 1"
+        }
+      ],
+      [
+        {
+          "accessibility": "Main image 2"
+        }
+      ]
+    ]
+  },
+  "multi": [
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>TELL US HOW YOU FEEL</p>",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>How ready are you to help us build and maintain our culture of compliance?</p>",
+          "max_word": "60"
+        },
+        "body_2": {
+          "text": "<p><i>P.S. This is personal to YOU and there are no 'wrong' answers.</i></p>",
+          "max_word": "60"
+        },
+        "transcript": {
+          "text": "",
+          "max_word": "360"
+        }
+      }
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>How would you rate our culture when it comes to compliance?</p>",
+          "max_word": "30"
+        },
+        "label_1": {
+          "text": "<p>We Don’t Have a Culture of Compliance</p>",
+          "max_word": "10"
+        },
+        "label_2": {
+          "text": "<p>We Always Do the Right Thing</p>",
+          "max_word": "10"
+        },
+        "accessibility_prompt": {
+          "text": "<p>Rate from \"We Don’t Have a Culture of Compliance\" to \"We Always Do the Right Thing\".</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>Sorry to hear that you think we have work to do on our compliance culture. We’re proud of our culture, but there’s always more work to do. This course will help us get there, and you’ll see examples of our culture in action in this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sorry to hear that you think we have work to do on our compliance culture. We’re proud of our culture, but there’s always more work to do. This course will help us get there, and you’ll see examples of our culture in action in this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sounds like you’re not convinced we have a strong compliance culture. We’re proud of our culture, but there’s always more work to do This course will help us get there, and you’ll see examples of our culture in action in this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>It’s great that you recognize our compliance culture. You’ll see examples of our culture in action in this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>It’s great that you recognize our compliance culture. You’ll see examples of our culture in action in this training.</p>",
+            "max_word": "50"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>How likely are you to speak up if you witness a breach of our compliance policy?</p>",
+          "max_word": "30"
+        },
+        "label_1": {
+          "text": "<p>Very Unlikely</p>",
+          "max_word": "10"
+        },
+        "label_2": {
+          "text": "<p>Very Likely</p>",
+          "max_word": "10"
+        },
+        "accessibility_prompt": {
+          "text": "<p>Rate from \"Very Unlikely\" to \"Very Likely\".</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>Sorry to hear you don’t feel confident speaking up. Hopefully this course will increase your confidence, as we all have a responsibility to help build and maintain our culture of compliance.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sorry to hear you don’t feel confident speaking up. Hopefully this course will increase your confidence, as we all have a responsibility to help build and maintain our culture of compliance.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sounds like you’re not fully confident when it comes to speaking up. Hopefully, this course will increase your confidence, as we all have a responsibility to help build and maintain our culture of compliance.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Thank you for being willing to speak up. People like you help build and maintain our culture of compliance.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Thank you for being willing to speak up. People like you help build and maintain our culture of compliance.</p>",
+            "max_word": "50"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>How confident are you that you know where to find our company compliance policies?</p>",
+          "max_word": "30"
+        },
+        "label_1": {
+          "text": "<p>Not Confident</p>",
+          "max_word": "10"
+        },
+        "label_2": {
+          "text": "<p>Confident</p>",
+          "max_word": "10"
+        },
+        "accessibility_prompt": {
+          "text": "<p>Rate from \"Not Confident\" to \"Confident\".</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>You’re not confident you can locate our company compliance policies. That’s okay—you can learn how to locate specific policies here.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>You’re not confident you can locate our company compliance policies. That’s okay—you can learn how to locate specific policies here.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sounds like you are not completely confident you can locate our company compliance policies. That’s okay—you can learn how to locate specific policies here.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Glad to hear you’re confident you can locate our company compliance policies. If in doubt, learn how to locate specific policies here.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Glad to hear you’re confident you can locate our company compliance policies. If in doubt, learn how to locate specific policies here.</p>",
+            "max_word": "50"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>How confident are you that you know HOW to speak up if you see a breach of compliance?</p>",
+          "max_word": "30"
+        },
+        "label_1": {
+          "text": "<p>Not Confident</p>",
+          "max_word": "10"
+        },
+        "label_2": {
+          "text": "<p>Confident</p>",
+          "max_word": "10"
+        },
+        "accessibility_prompt": {
+          "text": "<p>Rate from \"Not Confident\" to \"Confident\".</p>",
+          "max_word": "30"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>You’re not confident when it comes to HOW we raise a concern, internally. Don’t worry. You’ll learn how to speak up as we work through this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>You’re not confident when it comes to HOW we raise a concern, internally. Don’t worry. You’ll learn how to speak up as we work through this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Sounds like you are not completely confident when it comes to HOW we raise a concern, internally. Don’t worry. You’ll learn how to speak up as we work through this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Great to see you feel confident when it comes to HOW we raise a concern, internally. You’ll see examples of how to speak up as we work through this training.</p>",
+            "max_word": "50"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>Great to see you feel confident when it comes to HOW we raise a concern, internally. You’ll see examples of how to speak up as we work through this training.</p>",
+            "max_word": "50"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>WHAT MATTERS TO YOU</p>",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Thanks for sharing. You’re ready to get started!</p>",
+          "max_word": "30"
+        },
+        "label_1": {
+          "text": "<p>Your rating:</p>",
+          "max_word": "5"
+        }
+      }
+    }
+  ]
+}

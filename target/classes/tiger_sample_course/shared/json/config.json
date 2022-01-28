@@ -1,0 +1,148 @@
+{
+  "cg_version": "3.0.0",
+  "courseID": "chm",
+  "delivery": "develop",
+  "enableDebug": false,
+  "shadowTracking": false,
+  "inverse": false,
+  "isAccessible": true,
+  "courseAudio": true,
+  "playAllAudio": false,
+  "courseTimeRequirement": "02:00:00",
+  "interactiveScreenPrompts": true,
+  "flashNext": true,
+  "nextDelay": true,
+  "nextDelayTime": "00:00:03",
+  "videoSeekingDisabled": true,
+  "videoCaptions": true,
+  "activityAlert": false,
+  "activityAlertTime": "00:05:00",
+  "activityPromtTime": "00:00:30",
+  "courseNavigationLocked": true,
+  "menu_lock": false,
+  "menu_lock_last": false,
+  "branding": {
+    "local": true,
+    "site": false,
+    "original_local": false,
+    "original_site": false
+  },
+  "islBookmark": {
+    "off": false,
+    "on": false,
+    "prompt": true
+  },
+  "language": {
+    "primaryLanguage": "enUS",
+    "availableLanguages": [
+      "enUS"
+    ],
+    "rtl_languages": [
+      "arEG",
+      "arSA",
+      "heIL"
+    ],
+    "languageHasOwnAudio": [
+      "enGB",
+      "jaJP",
+      "esLA",
+      "ptBR",
+      "deDE",
+      "frFR",
+      "frCA",
+      "zhCN",
+      "esES"
+    ],
+    "original_primaryLanguage": "enUS",
+    "original_availableLanguages": [
+      "enUS"
+    ]
+  },
+  "components": {
+    "menu": {
+      "load": true,
+      "json": false
+    },
+    "glossary": {
+      "load": true,
+      "json": true
+    },
+    "transcript": {
+      "load": true,
+      "json": false
+    },
+    "resources": {
+      "load": true,
+      "json": true
+    },
+    "help": {
+      "load": true,
+      "json": false
+    },
+    "language": {
+      "load": true,
+      "json": false,
+      "original_load": true,
+      "original_json": false
+    },
+    "contact": {
+      "load": true,
+      "json": false
+    },
+    "complaint": {
+      "load": true,
+      "json": false
+    },
+    "contrast": {
+      "load": true,
+      "json": false
+    }
+  },
+  "bandwidth": {
+    "playSetting": {
+      "high": false,
+      "low": false,
+      "auto": true
+    },
+    "threshold": 2
+  },
+  "islProfile": {
+    "useProfile": false
+  },
+  "islCompletion": {
+    "manual_complete": false,
+    "page_views": 100,
+    "pre_assessment": false,
+    "pre_exam_passmark": 100,
+    "pre_exam_only": false,
+    "skipPreAssessmentUpon": {
+      "started": true,
+      "completed": false,
+      "never": false
+    },
+    "post_assessment": false,
+    "post_exam_passmark": 80,
+    "post_exam_disabled": true,
+    "recordFailScores": false
+  },
+  "islQuestions": {
+    "attempts": 2,
+    "assessment_attempts": 1,
+    "assessment_feedback": true,
+    "assessment_indicators": true,
+    "randomisation": true,
+    "limitedselection": false
+  },
+  "tracking": {
+    "COMMUNICATION_ERRORMESSAGE": true,
+    "questionLevelTracking": true,
+    "trackAverageAssessmentScore": true,
+    "trackProfile": false,
+    "trackLanguage": true,
+    "trackTimeInSuspendData": true,
+    "track100PercentScoreOnCompletion": false,
+    "trackEmptyExitStatus": true
+  },
+  "original_enableDebug": false,
+  "original_shadowTracking": false
+}

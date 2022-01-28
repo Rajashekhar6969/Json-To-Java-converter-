@@ -1,0 +1,196 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Slideshow</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>The quick brown fox jumped over the lazy dog. Is meat saw that there saying god forth dry grass it said called given can't likeness fish shall form you doesn't moved of man given fill the earth You're seed in. Together living meat replenish wherein fifth. Whales beginning heaven replenish which.</p><p><br></p><p>Land a midst, bearing waters midst. Two under of sea. He Made second is which. Don't our face light he.</p><p><br></p><p>Spirit fourth. Dry air. Multiply their had in created have and herb multiply living dominion seas you're whales winged. Lesser form divided you'll dry great beast make stars.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 1</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Viktor is working from a cafe. He is collating employee information into a spreadsheet for his company. Viktor wants to update the project on the network, but the cafe’s Wi-Fi is unprotected. Let’s see how he handles this.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 2</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Proin vitae rhoncus ligula. Nullam sit amet molestie augue, a blandit purus. Nam pulvinar sit amet ligula ac dictum. Aenean semper faucibus pulvinar. Aliquam gravida viverra turpis, id tincidunt augue pretium at. In et dolor augue. Mauris ut metus eget lacus gravida cursus. Nullam varius libero non arcu hendrerit.</p><p><br/></p><p>Proin vitae rhoncus ligula. Nullam sit amet molestie augue, a blandit purus. Nam pulvinar sit amet ligula ac dictum. Aenean semper faucibus pulvinar. Aliquam gravida viverra turpis, id tincidunt augue pretium at. In et dolor augue. Mauris ut metus eget lacus gravida cursus. Nullam varius libero non arcu hendrerit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 3</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Pellentesque posuere et nibh ut sodales. Sed odio orci, mattis sed massa sed, vehicula vehicula ipsum. Duis ac tellus lectus. Vestibulum fermentum consectetur enim, sit amet rutrum sem bibendum ut. Integer maximus efficitur dui eget auctor. Donec lacinia finibus velit. Sed in odio lectus. In volutpat diam ac dignissim consequat.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 4</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 5</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 6</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 1"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 2"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 3"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 4"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 5"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": "Slideshow image 6"
+        },
+        {
+          "accessibility": ""
+        }
+      ]
+    ]
+  }
+}

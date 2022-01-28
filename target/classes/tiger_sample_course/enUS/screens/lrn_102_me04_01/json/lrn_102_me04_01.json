@@ -1,0 +1,44 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Reflection</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>While our company would never contemplate engaging in modern slavery, it’s vital that we are aware of the fact that it could occur in our supply chain.</p><p><br></p><p>It’s also worth noting that companies need to be vigilant that modern slavery doesn’t exist within their own organization; for example, with cleaning services, security, catering, etc., as these are areas that can be vulnerable to modern slavery.</p><p><br></p><p>That’s why we need to be vigilant in dealing with third parties. We must always conduct thorough due diligence before engaging any third parties and constantly monitor the activities of third parties in our supply chain once we engage them.</p><p><br></p><p>We’re relying on you to help ensure we remain vigilant and immediately report any suspicions you might have. If you’re not sure of the correct reporting channels, you can find our contacts here.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [],
+  "media_accessibility": {
+    "items": []
+  }
+}

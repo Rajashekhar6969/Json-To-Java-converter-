@@ -1,0 +1,105 @@
+{
+	"ost": {
+		"title_1": {
+      "text": "<p>Question Right Two Third Image</p>",
+      "max_word": "50"
+    },
+		"subtitle_1": {
+			"text": "<p></p>",
+			"max_word": "10"
+		},
+    "body_1": {
+      "text": "<p>Tariq just joined Leah and Sam’s team. Leah has trouble pronouncing Tariq’s name and has told Tariq that she just plans to call him Ricky, which is easier. When Tariq asked Leah to call him by his actual name, Sam laughed and said, “Don’t be so stuck up.”</p><p><br></p><p>Leah and Sam refuse to invite Tariq to lunch and other team outings. Tariq feels very left out and has not been able to participate in certain team conversations about strategy, which often occur over the weekly team lunch meetings.</p><p><br></p><p>Tariq asked you if you think he could prove unlawful discrimination.</p>",
+      "max_word": "50"
+    },
+    "video_body_1": {
+      "text": "<p></p>",
+      "max_word": "50"
+    },
+    "video_body_2": {
+      "text": "",
+      "max_word": "50"
+    },
+    "q_stem": {
+      "text": "<p>What are the three main impacts?</p>",
+      "max_word": "50"
+    },
+    "label_correct": {
+      "text": "<p>Correct.</p>",
+      "max_word": "5"
+    },
+    "label_incorrect": {
+      "text": "<p>That’s not it.</p>",
+      "max_word": "5"
+    },
+    "correct": {
+      "text": "<p>That's correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "80"
+    },
+    "incorrect": {
+      "text": "<p>That's incorrect.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "partially": {
+      "text": "<p>That's partially correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "partially_retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+	},
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>No, because names are not a protected class.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>No, because Leah has trouble pronouncing foreign-sounding names.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Yes, if he can show that he suffered an adverse employment action because of his protected class or trait.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Yes, because Leah is creating a severe and pervasive hostile work environment.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": []
+  }
+}

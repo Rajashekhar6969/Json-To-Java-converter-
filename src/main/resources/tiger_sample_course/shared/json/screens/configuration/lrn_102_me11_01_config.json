@@ -1,0 +1,30 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "attest_company_logo": true,
+  "fade_attest_company_logo": true,
+  "fadeStartPosition": 5,
+  "screen": {
+    "questions_only": false,
+		"congratulations_only": false,
+		"questions_and_congratulations": true
+  },
+  "rate_course": false,
+  "printCert": true
+}

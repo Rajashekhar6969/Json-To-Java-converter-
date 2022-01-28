@@ -1,0 +1,44 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Course Timer</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>State law requires that you complete 2 hours of Anti-Harassment and Discrimination training. As you have not yet spent 2 hours in the module, you need to spend some further time reviewing the content until the 2 hour time period elapses.</p><p><br></p><p>When you have spent the 2 hours in this training the Next arrow will unlock and you can progress to the final screen in the module where you will be asked to attest that you will always adhere to our anti-harassment and discrimination policies.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [],
+  "media_accessibility": {
+    "items": []
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "lrn_102": {
+    "title": "Raja's Tiger sampler",
+    "duration": "<p>2 mins</p>"
+  },
+  "lrn_102_menu": {
+    "title": "<p>Menu Screen</p>",
+    "duration": "<p>1 mins</p>"
+  },
+  "src": "titles",
+  "lrn_102_me07": {
+    "title": "Introduction",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me06": {
+    "title": "Profiler",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me05": {
+    "title": "Text and image templates",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me04": {
+    "title": "Course Timer template",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me03": {
+    "title": "<p>Video templates</p>",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me02": {
+    "title": "Accordion template",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me01": {
+    "title": "Timeline templates",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me00": {
+    "title": "Pop-up templates",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me11": {
+    "title": "Attestation template",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me09": {
+    "title": "Question templates",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me08": {
+    "title": "Quickquiz template",
+    "duration": "<p>1 mins</p>"
+  },
+  "lrn_102_me10": {
+    "title": "Culture template",
+    "duration": "<p>1 mins</p>"
+  }
+}

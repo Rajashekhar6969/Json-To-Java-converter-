@@ -1,0 +1,31 @@
+{
+    "inverse": {
+        "global": true,
+        "on": false,
+        "off": false
+    },
+    "background_x": {
+        "left": true,
+        "right": false
+    },
+    "background_y": {
+        "top": true,
+        "bottom": false
+    },
+    "background_flip": {
+        "global": true,
+        "on": false,
+        "off": false
+    },
+    "dashboard": {
+        "off": false,
+        "left": false,
+        "right": true
+    },
+    "heading_text": false,
+    "screens_completed": true,
+    "learning_progress": true,
+    "time_in_course": true,
+    "audioPlaysOnce": true,
+    "videoBackground": false
+}

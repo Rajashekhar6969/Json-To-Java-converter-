@@ -1,0 +1,29 @@
+{
+  "audio": {
+  	"audio_main":{
+	  	"default": {
+	    	"src": ""
+	    }
+	  },
+    "audio_items": []
+  },
+  "video": {
+  	"video_main": {
+  		"default": {
+		    "main_video_high": "",
+		    "main_video_low": "",
+		    "vtt": ""
+		  }
+	  },
+    "video_items": []
+  },
+  "image": {
+  	"image_main": {
+	    "default": {
+	      "src": "menu_bg.jpg",
+	      "mobile_src": "menu_bg_mobile.jpg"
+	    }
+	  },
+    "items": []
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Question Right Image Centre</p>",
+      "max_word": "50"
+    },
+    "subtitle_1": {
+      "text": "<p></p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Maria delves deeper into the client and the people the client does business with. She uncovers some media headlines that relate to the client’s business and business partners.</p>",
+      "max_word": "50"
+    },
+    "video_body_1": {
+      "text": "<p></p>",
+      "max_word": "50"
+    },
+    "video_body_2": {
+      "text": "",
+      "max_word": "50"
+    },
+    "q_stem": {
+      "text": "<p>Select the three headlines that indicate money laundering.</p>",
+      "max_word": "50"
+    },
+    "label_correct": {
+      "text": "<p>Correct.</p>",
+      "max_word": "5"
+    },
+    "label_incorrect": {
+      "text": "<p>That’s not it.</p>",
+      "max_word": "5"
+    },
+    "correct": {
+      "text": "<p>That's correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "80"
+    },
+    "incorrect": {
+      "text": "<p>That's incorrect.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "partially": {
+      "text": "<p>That's partially correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "partially_retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Driver arrested when observant police officer recognizes missing jewelry in delivery consignment</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Business closed after discovery that profits had financed local terrorist group</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>District Attorney claims senior executive’s $2 million house was bought with cash from drug imports</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Disgraced corporate attorney jailed after stashing $100,000 cash in 11 different accounts</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": []
+  }
+}

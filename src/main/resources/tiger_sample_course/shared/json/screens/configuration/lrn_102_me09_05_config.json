@@ -1,0 +1,46 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": true,
+    "right": false
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "text_position": {
+    "top": false,
+    "bottom": false,
+    "left": true,
+    "right": false
+  },
+  "question_type": "mamc",
+  "qstyle": "#ee6gc4",
+  "attempts": 2,
+  "randomise": true,
+  "feedback_nasba": false,
+  "feedback": false,
+  "feedback_indicators": true,
+  "limitedselection": true,
+  "video_enabled": false,
+  "autoplay": false,
+  "videoSeekingDisabled": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "video_subtitles": {
+    "global": true,
+    "on": false,
+    "off": false
+  }
+}

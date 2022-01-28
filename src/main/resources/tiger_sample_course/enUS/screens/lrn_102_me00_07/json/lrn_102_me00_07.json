@@ -1,0 +1,196 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Coverflow</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Our code covers 14 policy areas. Select at least 3 policy areas to review.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Card 1 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Legitimate sources include:</p><ul><li>Private donations</li><li>Legitimate commercial enterprises</li><li>Legitimate non-profit or religious organisations</li></ul><p><br></p><p>Criminal sources include:</p><ul><li>Proceeds of criminal activity, such as narcotics, fraud, robbery, kidnapping and extortion.</li><li>Conflict resources, such as oil, diamonds or minerals.</li><li>Shell companies or charities.</li><li>Sponsorship by rogue states.</li></ul><p><br></p><p>More recently, groups have been raising income from appeals on social media, or even using crowdfunding sites.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Card 2 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien arcu, fringilla id libero at, auctor sagittis ligula. Donec malesuada enim nec erat interdum, euismod blandit velit vehicula.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Card 3 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien arcu, fringilla id libero at, auctor sagittis ligula. Donec malesuada enim nec erat interdum, euismod blandit velit vehicula.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Card 4 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien arcu, fringilla id libero at, auctor sagittis ligula. Donec malesuada enim nec erat interdum, euismod blandit velit vehicula.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Card 5 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien arcu, fringilla id libero at, auctor sagittis ligula. Donec malesuada enim nec erat interdum, euismod blandit velit vehicula.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Card 6 Heading</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sapien arcu, fringilla id libero at, auctor sagittis ligula. Donec malesuada enim nec erat interdum, euismod blandit velit vehicula.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+      [
+        {
+          "accessibility": "Description 1"
+        },
+        {
+          "accessibility": "Description 1"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Description 2"
+        },
+        {
+          "accessibility": "Description 2"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Description 3"
+        },
+        {
+          "accessibility": "Description 3"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Description 4"
+        },
+        {
+          "accessibility": "Description 4"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Description 5"
+        },
+        {
+          "accessibility": "Description 5"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Description 6"
+        },
+        {
+          "accessibility": "Description 6"
+        },
+        {
+          "accessibility": ""
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "media_accessibility": {
+    "items": [[]]
+  },
+  "multi": [
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>Ready to show what you know?</p>",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Answer [DoNotEdit_numQuestions] questions to complete this assessment.</p>",
+          "max_word": "60"
+        },
+        "body_2": {
+          "text": "<p>Passmark: [DoNotEdit_passmark]</p>",
+          "max_word": "60"
+        },
+        "course_complete": {
+          "text": "<p>It looks like you have previously completed this course.</p><p>Click <strong>Print</strong> to print your certificate.</p>",
+          "max_word": "60"
+        },
+        "transcript": {
+          "text": "<p></p>",
+          "max_word": "360"
+        }
+      }
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "Question 1",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Sudden, unexplained increase in account activity or balance is a red flag.</p>",
+          "max_word": "30"
+        },
+        "prompt": {
+          "text": "<p>Choose the correct option and select Submit.</p>",
+          "max_word": "10"
+        },
+        "label_correct": {
+          "text": "<p>Correct.</p>",
+          "max_word": "5"
+        },
+        "label_incorrect": {
+          "text": "<p>That’s not it.</p>",
+          "max_word": "5"
+        },
+        "correct": {
+          "text": "<p>1 They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "incorrect": {
+          "text": "<p>They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "partically": {
+          "text": "<p>That's partially correct. The correct answer is now shown. Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        },
+        "partically_retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>True</p>",
+            "max_word": "30"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>False</p>",
+            "max_word": "30"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "Question 2",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>A client withdraws a large cash sum to purchase an asset. This is a red flag.</p>",
+          "max_word": "30"
+        },
+        "prompt": {
+          "text": "<p>Choose the correct option and select Submit.</p>",
+          "max_word": "10"
+        },
+        "label_correct": {
+          "text": "<p>Correct.</p>",
+          "max_word": "5"
+        },
+        "label_incorrect": {
+          "text": "<p>That’s not it.</p>",
+          "max_word": "5"
+        },
+        "correct": {
+          "text": "<p>1 They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "incorrect": {
+          "text": "<p>They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "partically": {
+          "text": "<p>That's partially correct. The correct answer is now shown. Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        },
+        "partically_retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>True</p>",
+            "max_word": "30"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>False</p>",
+            "max_word": "30"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "Question 3",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>A client provides identification documents you can’t readily verify. This represents a red flag.</p>",
+          "max_word": "30"
+        },
+        "prompt": {
+          "text": "<p>Choose the correct option and select Submit.</p>",
+          "max_word": "10"
+        },
+        "label_correct": {
+          "text": "<p>Correct.</p>",
+          "max_word": "5"
+        },
+        "label_incorrect": {
+          "text": "<p>That’s not it.</p>",
+          "max_word": "5"
+        },
+        "correct": {
+          "text": "<p>1 They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "incorrect": {
+          "text": "<p>They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "partically": {
+          "text": "<p>That's partially correct. The correct answer is now shown. Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        },
+        "partically_retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>True</p>",
+            "max_word": "30"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>False</p>",
+            "max_word": "30"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "Question 4",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>A client operates multiple accounts with numerous deposits under $10,000. This represents a red flag.</p>",
+          "max_word": "30"
+        },
+        "prompt": {
+          "text": "<p>Choose the correct option and select Submit.</p>",
+          "max_word": "10"
+        },
+        "label_correct": {
+          "text": "<p>Correct.</p>",
+          "max_word": "5"
+        },
+        "label_incorrect": {
+          "text": "<p>That’s not it.</p>",
+          "max_word": "5"
+        },
+        "correct": {
+          "text": "<p>1 They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "incorrect": {
+          "text": "<p>They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "partically": {
+          "text": "<p>That's partially correct. The correct answer is now shown. Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        },
+        "partically_retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>True</p>",
+            "max_word": "30"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>False</p>",
+            "max_word": "30"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "Question 5",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p>Frequent cash deposits or withdrawals with no apparent business source is a red flag.</p>",
+          "max_word": "30"
+        },
+        "prompt": {
+          "text": "<p>Choose the correct option and select Submit.</p>",
+          "max_word": "10"
+        },
+        "label_correct": {
+          "text": "<p>Correct.</p>",
+          "max_word": "5"
+        },
+        "label_incorrect": {
+          "text": "<p>That’s not it.</p>",
+          "max_word": "5"
+        },
+        "correct": {
+          "text": "<p>1 They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "incorrect": {
+          "text": "<p>They're all important. In fact, if you couldn't answer these questions, your new hire may leave within 90 days, wasting all that effort, expense and labor.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "partically": {
+          "text": "<p>That's partially correct. The correct answer is now shown. Select <b>Next</b> to continue.</p>",
+          "max_word": "30"
+        },
+        "retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        },
+        "partically_retry": {
+          "text": "<p>Select <b>Retry</b> to continue.</p>",
+          "max_word": "10"
+        }
+      },
+      "items": [
+        {
+          "item_txt": {
+            "text": "<p>True</p>",
+            "max_word": "30"
+          }
+        },
+        {
+          "item_txt": {
+            "text": "<p>False</p>",
+            "max_word": "30"
+          }
+        }
+      ]
+    },
+    {
+      "ost": {
+        "title_1": {
+          "text": "<p>Results</p>",
+          "max_word": "10"
+        },
+        "body_1": {
+          "text": "<p></p>",
+          "max_word": "60"
+        },
+        "positive_feedback": {
+          "text": "<p>Positive Feedback here.</p><p>You got [DoNotEdit_XXX] of [DoNotEdit_YYY] questions correct for a score of [DoNotEdit_ZZZ]%.</p>",
+          "max_word": "10"
+        },
+        "negative_feedback": {
+          "text": "<p>Negative Feedback here.</p><p>You got [DoNotEdit_XXX] of [DoNotEdit_YYY] questions correct for a score of [DoNotEdit_ZZZ]%.</p>",
+          "max_word": "10"
+        },
+        "transcript_positive": {
+          "text": "<p></p>",
+          "max_word": "360"
+        },
+        "transcript_negative": {
+          "text": "<p></p>",
+          "max_word": "360"
+        }
+      }
+    }
+  ]
+}

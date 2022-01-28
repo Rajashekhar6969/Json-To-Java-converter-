@@ -1,0 +1,20 @@
+{
+  "inverse": {
+    "global": false,
+    "on": true,
+    "off": false
+  },
+  "background_x": {
+    "left": true,
+    "right": false
+  },
+  "background_y": {
+    "top": false,
+    "bottom": true
+  },
+  "background_flip": {
+    "global": false,
+    "on": true,
+    "off": false
+  }
+}

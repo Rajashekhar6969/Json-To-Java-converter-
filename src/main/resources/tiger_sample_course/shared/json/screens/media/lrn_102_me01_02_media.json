@@ -1,0 +1,134 @@
+{
+  "audio": {
+    "audio_main": {
+      "default": {
+        "src": ""
+      }
+    },
+    "audio_items": []
+  },
+  "video": {
+    "video_main": {
+      "default": {
+        "main_video_high": "",
+        "main_video_low": "",
+        "vtt":{
+					"default": {
+						"vtt_file": ""
+					}
+				}
+      }
+    },
+    "video_items": []
+  },
+  "image": {
+    "image_main": {
+      "default": {
+        "src": "t_timeline_vertical_bg.jpg",
+        "mobile_src": "t_timeline_vertical_bg_mobile.jpg"
+      }
+    },
+    "items": [
+      [
+        {
+          "default": {
+            "src": "t_timeline_vertical_click_1.jpg",
+            "mobile_src": "t_timeline_vertical_click_1_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "t_timeline_vertical_click_2.jpg",
+            "mobile_src": "t_timeline_vertical_click_2_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "t_timeline_vertical_click_3.jpg",
+            "mobile_src": "t_timeline_vertical_click_3_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "t_timeline_vertical_click_4.jpg",
+            "mobile_src": "t_timeline_vertical_click_4_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ],
+      [
+        {
+          "default": {
+            "src": "t_timeline_vertical_click_5.jpg",
+            "mobile_src": "t_timeline_vertical_click_5_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

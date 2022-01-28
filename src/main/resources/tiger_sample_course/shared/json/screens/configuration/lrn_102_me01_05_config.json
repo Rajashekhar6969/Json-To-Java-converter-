@@ -1,0 +1,29 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": true,
+    "right": false
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "timeline_type": {
+    "off": true,
+    "image": false
+  },
+  "additional_content": {
+    "off": true,
+    "image": false
+  },
+  "changeSlideBackground": false
+}

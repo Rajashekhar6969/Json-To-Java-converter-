@@ -1,0 +1,171 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Timeline Vertical</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Around ONE TRILLION dollars is paid in bribes every year.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 1</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget tellus eu lectus cursus volutpat at sed nisl. Nulla et augue leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in sem euismod, semper lorem pulvinar, feugiat lorem. Donec id magna fringilla, sodales nisl</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 2</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Proin vitae rhoncus ligula. Nullam sit amet molestie augue, a blandit purus. Nam pulvinar sit amet ligula ac dictum. Aenean semper faucibus pulvinar. Aliquam gravida viverra turpis, id tincidunt augue pretium at. Mauris ut metus eget lacus gravida cursus. Nullam varius libero non arcu hendrerit, vitae pellentesque lacus lobortis.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 3</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Pellentesque posuere et nibh ut sodales. Sed odio orci, mattis sed massa sed, vehicula vehicula ipsum. Duis ac tellus lectus. Vestibulum fermentum consectetur enim, sit amet rutrum sem bibendum ut. Integer maximus efficitur dui eget auctor. Donec lacinia finibus velit. Sed in odio lectus. In volutpat diam ac dignissim consequat.</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p><p></br></p><p>Extra Text</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 4</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Dignissim eu metus sodales, pretium lectus a, facilisis velit. Vestibulum sed ante eget nisi dapibus ultrices consequat a enim. Mauris sit amet enim ipsum. Morbi vehicula venenatis neque, et iaculis odio consectetur non. Nulla facilisi. Nam dignissim urna ac mauris ornare venenatis. Quisque non aliquet nulla, nec gravida neque.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 5</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Quisque non aliquet nulla, nec gravida neque.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+      [
+        {
+          "accessibility": "Main image 1"
+        },
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Main image 2"
+        },
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Main image 3"
+        },
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Main image 4"
+        },
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Main image 5"
+        },
+        {
+          "accessibility": ""
+        },
+        {
+          "accessibility": ""
+        }
+      ]
+    ]
+  }
+}

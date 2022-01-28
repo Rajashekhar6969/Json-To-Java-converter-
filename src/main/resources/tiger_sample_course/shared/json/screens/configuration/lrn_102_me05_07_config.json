@@ -1,0 +1,25 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": false,
+    "on": true,
+    "off": false
+  },
+  "no_columns": {
+    "one_column": false,
+    "two_column": false,
+    "three_column": true
+  }
+}

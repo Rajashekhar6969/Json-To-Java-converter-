@@ -1,0 +1,27 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "acd_statement": true,
+  "acd_rotate_heading": false,
+  "acd_firstSlideOpen": false,
+  "acd_slideBtnHeading": true,
+  "acd_slideBtnNumber": false,
+  "acd_slideNumber": false,
+  "acd_slideImage": false
+}

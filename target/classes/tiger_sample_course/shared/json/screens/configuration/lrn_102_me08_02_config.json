@@ -1,0 +1,145 @@
+{
+  "inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "background_x": {
+    "left": false,
+    "right": true
+  },
+  "background_y": {
+    "top": true,
+    "bottom": false
+  },
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+  "passmark": 80,
+  "unlockscreen": false,
+  "randomQuestionOrder": true,
+  "largePercentage": true,
+  "questionsNumberTitle": false,
+  "detailedFeedback": true,
+  "genericFeedback": true,
+  "summaryFeedbackAudio": true,
+  "maxPopups": 2,
+  "minPopups": 2,
+  "retryQuiz": true,
+  "retryAllQuestions": true,
+  "retryOnFirstQuestion": true,
+  "printCert": true,
+  "pooling": true,
+  "pool_1": 2,
+  "pool_2": 2,
+  "pool_3": 0,
+  "pool_4": 0,
+  "pool_5": 0,
+  "multi": [
+    {
+      "template": "quizIntro",
+      "disabled": true
+    },
+    {
+      "template": "mcQuestion",
+      "disabled": false,
+      "type": "question",
+      "question_pool": {
+        "pool_1": true,
+        "pool_2": false,
+        "pool_3": false,
+        "pool_4": false,
+        "pool_5": false
+      },
+      "question_type": "samc",
+      "qstyle": "#3066ge",
+      "attempts": 1,
+      "randomise": true,
+      "feedback": false,
+      "feedback_indicators": true,
+      "limitedselection": false
+    },
+    {
+      "template": "mcQuestion",
+      "disabled": false,
+      "type": "question",
+      "question_pool": {
+        "pool_1": false,
+        "pool_2": true,
+        "pool_3": false,
+        "pool_4": false,
+        "pool_5": false
+      },
+      "question_type": "samc",
+      "qstyle": "#3066ge",
+      "attempts": 1,
+      "randomise": true,
+      "feedback": false,
+      "feedback_indicators": true,
+      "limitedselection": false
+    },
+    {
+      "template": "mcQuestion",
+      "disabled": false,
+      "type": "question",
+      "question_pool": {
+        "pool_1": false,
+        "pool_2": true,
+        "pool_3": false,
+        "pool_4": false,
+        "pool_5": false
+      },
+      "question_type": "samc",
+      "qstyle": "#3066ge",
+      "attempts": 1,
+      "randomise": true,
+      "feedback": false,
+      "feedback_indicators": true,
+      "limitedselection": false
+    },
+    {
+      "template": "mcQuestion",
+      "disabled": false,
+      "type": "question",
+      "question_pool": {
+        "pool_1": false,
+        "pool_2": true,
+        "pool_3": false,
+        "pool_4": false,
+        "pool_5": false
+      },
+      "question_type": "samc",
+      "qstyle": "#3066ge",
+      "attempts": 1,
+      "randomise": true,
+      "feedback": false,
+      "feedback_indicators": true,
+      "limitedselection": false
+    },
+    {
+      "template": "mcQuestion",
+      "disabled": false,
+      "type": "question",
+      "question_pool": {
+        "pool_1": true,
+        "pool_2": false,
+        "pool_3": false,
+        "pool_4": false,
+        "pool_5": false
+      },
+      "question_type": "samc",
+      "qstyle": "#3066ge",
+      "attempts": 1,
+      "randomise": true,
+      "feedback": false,
+      "feedback_indicators": true,
+      "limitedselection": false
+    },
+    {
+      "template": "quizSummary",
+      "disabled": true
+    }
+  ]
+}

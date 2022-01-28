@@ -1,0 +1,35 @@
+{
+	"inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"background_x": {
+		"left": true,
+		"right": false
+	},
+	"background_y": {
+		"top": true,
+		"bottom": false
+	},
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"parallaxPosition": {
+		"left": false,
+		"right": false,
+		"center": true
+	},
+	"parallaxType": {
+		"headings": false,
+		"numbers": true,
+		"icons": false,
+		"images": false
+	},
+	"parallaxBG": true,
+	"backgroundPanel": true,
+	"buildItems": false,
+	"maxPopups": 9
+}

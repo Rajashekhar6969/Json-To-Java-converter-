@@ -1,0 +1,47 @@
+{
+	"inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"background_x": {
+		"left": false,
+		"right": true
+	},
+	"background_y": {
+		"top": true,
+		"bottom": false
+	},
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"randomQuestionOrder": true,
+  "multi": [
+		{
+      "template": "cultureIntro",
+      "disabled": true
+		},
+		{
+      "template": "cultureQuestion",
+			"type": "question"
+		},
+		{
+      "template": "cultureQuestion",
+			"type": "question"
+		},
+		{
+      "template": "cultureQuestion",
+			"type": "question"
+		},
+		{
+      "template": "cultureQuestion",
+			"type": "question"
+		},
+		{
+      "template": "cultureSummary",
+      "disabled": true
+		}
+  ]
+}

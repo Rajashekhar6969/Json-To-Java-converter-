@@ -1,0 +1,37 @@
+{
+	"inverse": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"background_x": {
+		"left": false,
+		"right": true
+	},
+	"background_y": {
+		"top": true,
+		"bottom": false
+	},
+  "background_flip": {
+    "global": true,
+    "on": false,
+    "off": false
+  },
+	"maxPopups": 100,
+	"multi": [
+		{
+	      "template": "profilerIntro",
+	      "disabled": true
+	    },
+		{
+      		"template": "profilerQuestion",
+      		"disabled": false,
+			"multiSelection": false
+		},
+		{
+      		"template": "profilerQuestion",
+      		"disabled": false,
+			"multiSelection": true
+		}
+  	]
+}

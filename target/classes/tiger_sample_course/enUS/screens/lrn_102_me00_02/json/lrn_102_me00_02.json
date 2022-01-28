@@ -1,0 +1,196 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Ask The Expert</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>The GDPR introduces major changes both for companies within the EU and for companies outside the EU that were not previously captured by EU law.&nbsp;</p><p><br></p><p>The new rules include additional rights for data subjects, a standardized data protection regime, and an obligation on businesses to make privacy by design a key element of all business processes.&nbsp;</p><p><br></p><p>An expert has kindly agreed to provide us with answers on some of the key rules and regulations of the GDPR.</p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>How does the GDPR apply to non-EU companies?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>The GDPR protects the personal data of individuals in the EU that organizations outside the EU process to offer goods or services. It also applies to non-EU-based organizations that may monitor how you behave online (for example, analyzing your online behavior to predict your online shopping habits).</p><br/><p>This means that all organizations, irrespective of where they are located, must ensure that the personal data of individuals in the EU is protected to the standard outlined in the GDPR.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>How does the GDPR impact the definition of personal data?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>The definition of 'personal data' has been widened significantly – for example, IP addresses, cookie identifiers, mobile device IDs, and other types of online identifiers are now considered personal data.</p><br/><p>So, for example, if your company website is accessible to EU consumers and you collect their IP addresses in access logs, or track EU visitors using cookies, the data you collect is subject to the GDPR.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>What does privacy by design and default mean?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Privacy by design is an approach to projects that promotes privacy and data protection compliance from the start. Organizations must ensure that privacy and data protection is a key consideration in the early stages of any project, and then throughout its lifecycle. </p><p><br></p><p>For example, when:</p><ul><li>Building new IT systems for storing or accessing personal data</li><li>Developing legislation, policy, or strategies that have privacy implications</li><li>Embarking on a data sharing initiative</li><li>Using data for new purposes</li></ul><p><br></p><p>Organizations should therefore ensure that they integrate core privacy considerations into existing project management and risk management methodologies and policies.&nbsp;</p><p><br></p><p>Privacy by default means that the strictest privacy settings automatically apply for products and services (by default) and no manual change to such privacy settings should be required on the part of the user. For example, if you sign up for a service that includes a published profile, such as a profile on a social media site, the profile should show the minimum information required and not add additional elements, such as age and location.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>What is the impact on transferring data outside the EU?</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Personal data can only be transferred to countries outside the EU and the EEA where certain, very specific arrangements are in place ensuring data protection.&nbsp;</p><p><br></p><p>Some countries are recognized by the EU as having adequate protections in place, i.e. in line with the standards of protection required in the EU.&nbsp;</p><p><br></p><p>However, for most other non-EEA countries, there are procedures that need to be complied with in order for the legitimate transfer of personal data from the EU, such as entering into data transfer contracts between the companies who are sharing the personal data.&nbsp;</p><p><br></p><p>Note that countries outside the EU and EEA are often referred to as third countries.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Popup Text Heading 5</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac.  Nam dignissim urna ac mauris ornare venenatis. Quisque non aliquet nulla, nec gravida neque.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Popup Text Heading 6</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac.  Nam dignissim urna ac mauris ornare venenatis. Quisque non aliquet nulla, nec gravida neque.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ],
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ],
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ],
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ],
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ],
+    	[
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    },
+		    {
+		      "accessibility": ""
+		    }
+		  ]
+	  ]
+  }
+}

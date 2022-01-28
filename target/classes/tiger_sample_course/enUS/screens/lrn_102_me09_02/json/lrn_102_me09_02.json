@@ -1,0 +1,105 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Question Left</p>",
+      "max_word": "50"
+    },
+    "subtitle_1": {
+      "text": "<p></p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p>Aside from a potential discrimination claim, what is the wider impact that Raheem’s discrimination against Daljeet could have in the workplace?</p>",
+      "max_word": "50"
+    },
+    "video_body_1": {
+      "text": "<p></p>",
+      "max_word": "50"
+    },
+    "video_body_2": {
+      "text": "",
+      "max_word": "50"
+    },
+    "q_stem": {
+      "text": "<p>What do you think are the three most likely impacts?</p>",
+      "max_word": "50"
+    },
+    "label_correct": {
+      "text": "<p>Correct.</p>",
+      "max_word": "5"
+    },
+    "label_incorrect": {
+      "text": "<p>That’s not it.</p>",
+      "max_word": "5"
+    },
+    "correct": {
+      "text": "<p>That's correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "80"
+    },
+    "incorrect": {
+      "text": "<p>That's incorrect.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "partially": {
+      "text": "<p>That's partially correct.</p><p><br></p><p>Select <b>Next</b> to continue.</p>",
+      "max_word": "50"
+    },
+    "retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "partially_retry": {
+      "text": "<p>Select <b>Retry</b> to continue.</p>",
+      "max_word": "10"
+    },
+    "transcript": {
+      "text": "<p></p>",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Daljeet may become withdrawn and disengage from team meetings, which could lead to him not contributing important information.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Daljeet will work harder and better to impress Raheem.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Some people may be intimidated by Raheem’s actions, causing them to be less active in team meetings.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Some of Daljeet’s colleagues may not want to work with Raheem, causing a divide in the workforce.</p>",
+        "max_word": "50"
+      },
+      "nasba_feedback_txt": {
+        "text": "<p></p>",
+        "max_word": "40"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": []
+  }
+}

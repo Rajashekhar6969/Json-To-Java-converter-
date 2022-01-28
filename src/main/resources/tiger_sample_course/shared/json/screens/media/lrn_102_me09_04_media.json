@@ -1,0 +1,57 @@
+{
+  "audio": {
+    "audio_main": {
+      "default": {
+        "src": ""
+      }
+    },
+    "audio_items": []
+  },
+  "video": {
+    "video_main": {
+      "default": {
+        "main_video_high": "clc_ahd_01_01.mp4",
+        "main_video_low": "clc_ahd_01_01_low.mp4",
+        "vtt": {
+          "default": {
+            "vtt_file": ""
+          },
+          "enUS": {
+            "vtt_file": "clc_ahd_01_01_enUS.vtt"
+          }
+        }
+      }
+    },
+    "video_items": []
+  },
+  "image": {
+    "image_main": {
+      "default": {
+        "src": "tq_question_right_image_centre_bg.jpg",
+        "mobile_src": "tq_question_right_image_centre_bg_mobile.jpg"
+      }
+    },
+    "items": [
+      [
+        {
+          "default": {
+            "src": "tq_question_right_image_centre_video_bg.jpg",
+            "mobile_src": "tq_question_right_image_centre_video_bg_mobile.jpg"
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        },
+        {
+          "default": {
+            "src": "",
+            "mobile_src": ""
+          }
+        }
+      ]
+    ]
+  }
+}

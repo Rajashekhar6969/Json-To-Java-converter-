@@ -1,0 +1,435 @@
+{
+  "id": "lrn_102",
+  "type": "basic",
+  "groupnode": [
+    {
+      "id": "lrn_102_me07",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_intro_start",
+          "src": "lrn_102_me07_01.json",
+          "type": "basic"
+        },
+        {
+          "template": "t_intro_start",
+          "src": "lrn_102_me07_02.json",
+          "type": "basic",
+          "navoff": "False"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me06",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_profiler",
+          "src": "lrn_102_me06_01.json",
+          "type": "profile",
+          "navoff": "False",
+          "back": "menu.json",
+          "next": "menu.json",
+          "profile": "99",
+          "analytics": "Profile"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_menu",
+      "type": "menu",
+      "page": [
+        {
+          "template": "t_menu",
+          "src": "menu.json",
+          "type": "menu"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me10",
+      "type": "basic",
+      "page": [
+        {
+          "template": "tq_culture",
+          "src": "lrn_102_me10_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json",
+          "next": "menu.json",
+          "analytics": "Culture"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me05",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_text",
+          "src": "lrn_102_me05_01.json",
+          "type": "basic",
+          "back": "menu.json"
+        },
+        {
+          "template": "t_text",
+          "src": "lrn_102_me05_03.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_text",
+          "src": "lrn_102_me05_04.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_text",
+          "src": "lrn_102_me05_05.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_text",
+          "src": "lrn_102_me05_06.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_reflection",
+          "src": "lrn_102_me04_01.json",
+          "type": "basic"
+        },
+        {
+          "template": "t_speaking_up",
+          "src": "lrn_102_me05_07.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_speaking_up",
+          "src": "lrn_102_me05_08.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_speaking_up",
+          "src": "lrn_102_me05_02.json",
+          "type": "basic",
+          "navoff": "False",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me04",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_course_timer",
+          "src": "lrn_102_me04_02.json",
+          "type": "basic",
+          "navoff": "False",
+          "back": "menu.json",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me03",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_video",
+          "src": "lrn_102_me03_01.json",
+          "type": "basic",
+          "back": "menu.json"
+        },
+        {
+          "template": "t_video",
+          "src": "lrn_102_me03_02.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_video",
+          "src": "lrn_102_me03_03.json",
+          "type": "basic",
+          "navoff": "False"
+        },
+        {
+          "template": "t_video",
+          "src": "lrn_102_me03_04.json",
+          "type": "basic"
+        },
+        {
+          "template": "t_video",
+          "src": "lrn_102_me03_05.json",
+          "type": "basic",
+          "navoff": "False",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me02",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_accordion",
+          "src": "lrn_102_me02_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json"
+        },
+        {
+          "template": "t_accordion",
+          "src": "lrn_102_me02_02.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_accordion",
+          "src": "lrn_102_me02_03.json",
+          "type": "controlled",
+          "navoff": "False",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me01",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_timeline",
+          "src": "lrn_102_me01_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json"
+        },
+        {
+          "template": "t_timeline",
+          "src": "lrn_102_me01_05.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_timeline",
+          "src": "lrn_102_me01_06.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_timeline_vertical",
+          "src": "lrn_102_me01_02.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_timeline_vertical",
+          "src": "lrn_102_me01_07.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_slideshow",
+          "src": "lrn_102_me01_03.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_slideshow",
+          "src": "lrn_102_me01_08.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_slideshow",
+          "src": "lrn_102_me01_09.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_parallax",
+          "src": "lrn_102_me01_04.json",
+          "type": "controlled"
+        },
+        {
+          "template": "t_parallax",
+          "src": "lrn_102_me01_10.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_parallax",
+          "src": "lrn_102_me01_11.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_parallax",
+          "src": "lrn_102_me01_12.json",
+          "type": "controlled",
+          "profile": "",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me00",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_popup_expand",
+          "src": "lrn_102_me00_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json"
+        },
+        {
+          "template": "t_ask_the_expert",
+          "src": "lrn_102_me00_02.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_ask_the_expert",
+          "src": "lrn_102_me00_05.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_clickevent_imagegrid",
+          "src": "lrn_102_me00_03.json",
+          "type": "controlled",
+          "navoff": "False"
+        },
+        {
+          "template": "t_clickevent_imagegrid",
+          "src": "lrn_102_me00_06.json",
+          "type": "controlled",
+          "profile": ""
+        },
+        {
+          "template": "t_coverflow",
+          "src": "lrn_102_me00_04.json",
+          "type": "controlled"
+        },
+        {
+          "template": "t_coverflow",
+          "src": "lrn_102_me00_07.json",
+          "type": "controlled",
+          "profile": "",
+          "next": "menu.json"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me11",
+      "type": "basic",
+      "page": [
+        {
+          "template": "t_attestation",
+          "src": "lrn_102_me11_01.json",
+          "type": "controlled",
+          "back": "menu.json",
+          "analytics": "Feedback"
+        },
+        {
+          "template": "t_attestation",
+          "src": "lrn_102_me11_02.json",
+          "type": "controlled",
+          "profile": "",
+          "analytics": "Feedback"
+        },
+        {
+          "template": "t_attestation",
+          "src": "lrn_102_me11_03.json",
+          "type": "controlled",
+          "profile": "",
+          "analytics": "Feedback"
+        },
+        {
+          "template": "t_attestation",
+          "src": "lrn_102_me11_05.json",
+          "type": "controlled",
+          "next": "menu.json",
+          "analytics": "Feedback"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me09",
+      "type": "basic",
+      "page": [
+        {
+          "template": "tq_question_center",
+          "src": "lrn_102_me09_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json",
+          "analytics": "IC"
+        },
+        {
+          "template": "tq_question_left",
+          "src": "lrn_102_me09_02.json",
+          "type": "controlled",
+          "navoff": "False",
+          "analytics": "IC"
+        },
+        {
+          "template": "tq_question_right",
+          "src": "lrn_102_me09_03.json",
+          "type": "controlled",
+          "navoff": "False",
+          "analytics": "IC"
+        },
+        {
+          "template": "tq_question_right_image_centre",
+          "src": "lrn_102_me09_04.json",
+          "type": "controlled",
+          "navoff": "False",
+          "analytics": "IC"
+        },
+        {
+          "template": "tq_question_right_one_third_image",
+          "src": "lrn_102_me09_05.json",
+          "type": "controlled",
+          "navoff": "False",
+          "analytics": "IC"
+        },
+        {
+          "template": "tq_question_right_two_third_image",
+          "src": "lrn_102_me09_06.json",
+          "type": "controlled",
+          "navoff": "False",
+          "next": "menu.json",
+          "analytics": "IC"
+        }
+      ]
+    },
+    {
+      "id": "lrn_102_me08",
+      "type": "basic",
+      "page": [
+        {
+          "template": "tq_quickquiz",
+          "src": "lrn_102_me08_01.json",
+          "type": "controlled",
+          "navoff": "False",
+          "back": "menu.json",
+          "next": "menu.json",
+          "analytics": "QQ"
+        },
+        {
+          "template": "tq_quickquiz",
+          "src": "lrn_102_me08_02.json",
+          "type": "controlled",
+          "profile": "",
+          "analytics": "QQ"
+        }
+      ]
+    }
+  ]
+}

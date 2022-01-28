@@ -1,0 +1,196 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>Click Event: Image Grid</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "<p></p>",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [
+    {
+      "item_txt": {
+        "text": "<p>Suspicious Activities</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Suspicious financial activities include:<ul><li>Foreign currency transactions shortly followed by fund transfers to high-risk locations.</li><li>Sudden settlement of debts by unrelated third parties.</li><li>Numerous email transfers between the client and unrelated third parties.</li><li>Multiple variations of name, address, phone number, or additional identifiers in account documents.</li><li>Indication of a planned end date to account activity.</li></ul></p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 2</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Proin vitae rhoncus ligula. Nullam sit amet molestie augue, a blandit purus. Nam pulvinar sit amet ligula ac dictum. Aenean semper faucibus pulvinar. Aliquam gravida viverra turpis, id tincidunt augue pretium at. In et dolor augue. Mauris ut metus eget lacus gravida cursus. Nullam varius libero non arcu hendrerit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 3</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Pellentesque posuere et nibh ut sodales. Sed odio orci, mattis sed massa sed, vehicula vehicula ipsum. Duis ac tellus lectus. Vestibulum fermentum consectetur enim, sit amet rutrum sem bibendum ut. Integer maximus efficitur dui eget auctor. Donec lacinia finibus velit. Sed in odio lectus. In volutpat diam ac dignissim consequat.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 4</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 5</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    },
+    {
+      "item_txt": {
+        "text": "<p>Sub Heading 6</p>",
+        "max_word": "10"
+      },
+      "item_body": {
+        "text": "<p>Duis ullamcorper nisi et quam dignissim cursus. Nulla vulputate aliquam felis, eget pellentesque ipsum pulvinar ac. Aliquam vestibulum tellus nec luctus ullamcorper. Duis malesuada dictum orci, nec malesuada neque mollis vitae. Praesent ut felis quis tortor ornare accumsan. Phasellus ut dui purus. Pellentesque eu metus sodales, pretium lectus facilisis velit.</p>",
+        "max_word": "50"
+      },
+      "label": {
+        "text": "",
+        "max_word": "30"
+      }
+    }
+  ],
+  "media_accessibility": {
+    "items": [
+      [
+        {
+          "accessibility": "Thumb Image 1"
+        },
+        {
+          "accessibility": "Main Image 1"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Thumb Image 2"
+        },
+        {
+          "accessibility": "Main Image 2"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Thumb Image 3"
+        },
+        {
+          "accessibility": "Main Image 3"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Thumb Image 4"
+        },
+        {
+          "accessibility": "Main Image 4"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Thumb Image 5"
+        },
+        {
+          "accessibility": "Main Image 5"
+        },
+        {
+          "accessibility": ""
+        }
+      ],
+      [
+        {
+          "accessibility": "Thumb Image 6"
+        },
+        {
+          "accessibility": "Main Image 6"
+        },
+        {
+          "accessibility": ""
+        }
+      ]
+    ]
+  }
+}

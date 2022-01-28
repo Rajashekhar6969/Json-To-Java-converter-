@@ -1,0 +1,22 @@
+{
+  "txt_label_introductionStart": "Start Course",
+  "txt_label_introductionBody": "There are audio and video elements within this course.",
+  "txt_help_heading": "Help",
+  "txt_label_help_1_title": "Menu Bar",
+  "txt_label_help_1_text": "<p>Audio button to turn course audio on and off.</p><p>Menu button to return to the home screen.</p><p>More button to view the menu options available.</p>",
+  "txt_label_help_2_title": "Navigation",
+  "txt_label_help_2_text": "Use the arrow buttons to navigate forward and back through a topic. To complete a topic, visit every screen and pass the end-of-topic assessment. Speaking Up unlocks when all other topics are complete.",
+  "txt_label_help_3_title": "Additional Content",
+  "txt_label_help_3_text": "Select the plus icon to view additional content.",
+  "txt_label_help_4_title": "Video",
+  "txt_label_help_4_text": "Select the Play button to view a video.",
+  "txt_label_complaint_1": "Our Complaints Process",
+  "txt_label_complaint_2": "For details of our complaint process contact your HR representative.",
+  "txt_label_contact_1": "Contact Details",
+  "txt_label_contact_2": "<p>If you have any questions on this training, you can contact:</p><ul><li>Compliance</li><li>Legal</li><li>Your manager</li><li>Any other manager</li></ul>",
+  "txt_label_bookmarkHeader": "Bookmark",
+  "txt_label_bookmarkBody": "Would you like to return to your last bookmark?",
+  "txt_label_languageTitle": "Language Select Screen",
+  "txt_label_languageBody": "Select your desired language from the list below.",
+  "src": "client_common_text"
+}

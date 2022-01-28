@@ -1,0 +1,44 @@
+{
+  "ost": {
+    "title_1": {
+      "text": "<p>\"We're relying on you to help us create a workplace free from harassment and discrimination.\"</p>",
+      "max_word": "10"
+    },
+    "body_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_3": {
+      "text": "",
+      "max_word": "30"
+    },
+    "body_4": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "label_2": {
+      "text": "",
+      "max_word": "30"
+    },
+    "prompt_1": {
+      "text": "",
+      "max_word": "30"
+    },
+    "transcript": {
+      "text": "",
+      "max_word": "360"
+    }
+  },
+  "items": [],
+  "media_accessibility": {
+    "items": []
+  }
+}

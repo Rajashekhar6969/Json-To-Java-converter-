@@ -1,0 +1,21 @@
+{
+	"ost": {
+		"title_1": {
+			"text": "<p>Glossary</p>",
+			"max_word": "30"
+		}
+	},
+	"glossaryItems": [
+		{
+			"word": {
+				"text": "<p>Assessment</p>",
+				"max_word": "5"
+			},
+			"definition": {
+				"text": "<p>The process used to systematically evaluate a learner's skill or knowledge level.</p>",
+				"max_word": "30"
+			}
+		}
+	],
+	"src":"glossary"
+}
