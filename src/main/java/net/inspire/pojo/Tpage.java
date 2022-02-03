@@ -1,6 +1,15 @@
 package net.inspire.pojo;
 
+import java.io.FileReader;
+
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+
 import com.fasterxml.jackson.annotation.JsonProperty;
+
+import src.main.java.net.inspire.util.FileSearch;
+
+import static src.main.java.net.inspire.InspireConstants.*;
 
 public class Tpage {
 	/*String id;
@@ -110,6 +119,25 @@ public class Tpage {
 
 	public void setAnalytics(String analytics) {
 		this.analytics = analytics;
+	}
+	
+	private String getKeyValue(String key) throws Exception {
+		
+		JSONObject jsonObject = parsePageJson();
+		
+		return (String)jsonObject.get(key);
+	}
+	
+	
+	public JSONObject parsePageJson() throws Exception {
+		FileSearch f2 = new FileSearch();
+		String folderPath = COURSE_PATH;
+		String filepath = f2.find(folderPath, this.getSrc());
+		
+		System.out.println("File Path----" + filepath);
+		
+		Object obj1 = new JSONParser().parse(new FileReader(filepath));
+		return (JSONObject) obj1;
 	}
 
 

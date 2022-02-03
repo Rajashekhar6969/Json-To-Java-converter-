@@ -20,7 +20,7 @@ import net.inspire.pojo.Tpage;
 import net.inspire.pojo.vo.CourseVO;
 import net.inspire.pojo.vo.LessonVO;
 import net.inspire.pojo.vo.PageVO;
-import net.inspire.service.FileSearch;
+import src.main.java.net.inspire.util.FileSearch;
 
 @RestController
 public class ConverterController {

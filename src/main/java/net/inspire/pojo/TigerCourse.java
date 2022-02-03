@@ -48,6 +48,4 @@ public class TigerCourse {
 	public String toString() {
 		return "TigerCourse [id=" + id + ", type=" + type + ", lessons=" + lessons + "]";
 	}
-	
-	
 }

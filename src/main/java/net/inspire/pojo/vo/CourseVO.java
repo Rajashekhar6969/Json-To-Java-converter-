@@ -1,6 +1,5 @@
 package net.inspire.pojo.vo;
 
-import java.util.Date;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
